@@ -1,0 +1,21 @@
+{
+  "data" : [
+    {
+      "filename" : "E.caf",
+      "idiom" : "iphone",
+      "universal-type-identifier" : "com.apple.coreaudio-format"
+    },
+    {
+      "filename" : "E.m4a",
+      "idiom" : "ipad",
+      "universal-type-identifier" : "com.apple.m4a-audio"
+    },
+    {
+      "idiom" : "mac"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
